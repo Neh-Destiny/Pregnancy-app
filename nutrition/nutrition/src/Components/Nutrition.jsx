@@ -58,7 +58,7 @@ export default function Nutrition() {
       <div className="frame">
         <div className="header-section">
 <div className="nav-bar">
-<div></div>
+<div></div>'';,MM,.'EW'Q';,  ÉW./.Q ';,,T.,R/EW'Q',M ,.E'WQ ';,MD,DS'][MM,;A'  Z;, ',MM,L;L']V/../.'][;M/N/ M'
 
             <h1 className="page-title">Nutrition Guide</h1>
             {/* <button className="icon-btn" aria-label="Options"> */}
@@ -101,4 +101,4 @@ export default function Nutrition() {
       </div>
     </div>
   );
-}
+} 
